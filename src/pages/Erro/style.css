@@ -1,0 +1,13 @@
+.not-found{
+    width:100%;
+    margin-top: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #ededed;
+}
+
+.not-found h1{
+    font-size: 120px;
+}
